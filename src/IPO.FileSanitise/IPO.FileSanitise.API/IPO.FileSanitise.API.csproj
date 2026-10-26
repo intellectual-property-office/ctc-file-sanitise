@@ -17,9 +17,9 @@
 
   <ItemGroup>
     <PackageReference Include="Aspose.Words" Version="26.1.0" />
-    <PackageReference Include="IPO.Common.API" Version="2.0.424491" />
+    <PackageReference Include="IPO.Common.API" Version="2.4.478770" />
     <PackageReference Include="IPO.Configuration" Version="2.0.424214" />
-    <PackageReference Include="IPO.CTC.HealthChecks" Version="2.0.424215" />
+    <PackageReference Include="IPO.CTC.HealthChecks" Version="2.1.478758" />
 	  <PackageReference Include="SkiaSharp" Version="3.119.2" />
 	  <PackageReference Include="SkiaSharp.NativeAssets.Linux.NoDependencies" Version="3.119.2" />
     <PackageReference Include="Spire.PDFfor.NETStandard" Version="11.12.7" />

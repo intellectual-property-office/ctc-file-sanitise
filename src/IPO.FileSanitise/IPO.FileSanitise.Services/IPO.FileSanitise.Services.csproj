@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Aspose.Words" Version="26.1.0" />
-    <PackageReference Include="IPO.Common.Infrastructure" Version="2.0.424213" />
+    <PackageReference Include="IPO.Common.Infrastructure" Version="2.3.476152" />
 	  <PackageReference Include="SkiaSharp" Version="3.119.2" />
 	  <PackageReference Include="SkiaSharp.NativeAssets.Linux.NoDependencies" Version="3.119.2" />
     <PackageReference Include="Spire.PDFfor.NETStandard" Version="11.12.7" />
